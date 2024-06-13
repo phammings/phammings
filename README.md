@@ -5,6 +5,8 @@ I'm a **Software Engineer Intern & Student** studying at York University graduat
 
 Diving into the depths of code while also managing a swim aquatics team and also lifeguarding on the side. Always making a splash in both the digital and aquatic worlds!
 
+<br>
+
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
@@ -19,20 +21,16 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 |--|--|--|--|--|
 
-**DevOps**
-
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|
-
-**Databases**
-
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">|<img title="SQLite" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png"> <br>
-|--|--|--|--|
+| **Databases** | **DevOps** |
+| --- | --- |
+| <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> <img title="SQLite" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png"> | <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"> <img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"> <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> |
 
 **Tools**
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Bash" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">|<img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png">|<img title="Jira" alt="Jira" width="40px" src="https://img.icons8.com/?size=512&id=oROcPah5ues6&format=png"> <br>
 |--|--|--|--|--|--|--|
+
+<br>
 
 ## Some of my stats :bar_chart:
 
