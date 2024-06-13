@@ -1,7 +1,9 @@
 
 <h1>Hi There, I'm Ryan Pham <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Engineer Intern & Student** studying at York University graduating April 2025. Diving into the depths of code while also managing a swim aquatics team and also lifeguarding on the side. Always making a splash in both the digital and aquatic worlds!
+I'm a **Software Engineer Intern & Student** studying at York University graduating April 2025. 
+
+Diving into the depths of code while also managing a swim aquatics team and also lifeguarding on the side. Always making a splash in both the digital and aquatic worlds!
 
 ## Skill Set :muscle:
 
