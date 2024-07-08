@@ -18,8 +18,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Libraries and Frameworks**
 
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
-|--|--|--|--|--|--|
+<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">|<img title="Next.js" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">|<img title="Tailwind" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">|<img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+|--|--|--|--|--|--|--|
 
 | **Databases** | **DevOps** |
 | --- | --- |
