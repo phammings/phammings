@@ -30,6 +30,12 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="Postman" alt="Postman" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Bash" alt="Bash" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png">|<img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png">|<img title="Jira" alt="Jira" width="40px" src="https://img.icons8.com/?size=512&id=oROcPah5ues6&format=png">|<img title="Stripe" alt="Stripe" width="40px" src="https://img.icons8.com/?size=512&id=23671&format=png">|<img title="Plaid" alt="Plaid" width="40px" src="https://avatars.githubusercontent.com/u/3579888?s=280&v=4">|<img title="LemonSqueezy" alt="LemonSqueezy" width="40px" src="https://avatars.githubusercontent.com/u/129315959?s=280&v=4"> <br>
 |--|--|--|--|--|--|--|--|--|--|
 
+**Data Analysis**
+
+| <img title="Excel" alt="Excel" width="50px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> | <img title="SQL" alt="SQL" width="50px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> | <img title="Power BI" alt="Power BI" width="60px" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"> | <img title="Tableau" alt="Tableau" width="65px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> |
+|:--:|:--:|:--:|:--:|
+
+
 <br>
 
 ## Some of my stats :bar_chart:
