@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Ryan Pham <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Software Engineer Intern & Student** studying at York University graduating April 2025. 
+I'm a **AWS Solutions Architect**, **Software Engineer Intern**, and **Student** studying at York University, graduating April 2025.
 
 Diving into the depths of code while also managing a swim aquatics team and also lifeguarding on the side. Always making a splash in both the digital and aquatic worlds!
 
@@ -10,6 +10,15 @@ Diving into the depths of code while also managing a swim aquatics team and also
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
+<br>
+<br>
+
+
+**AWS Certifications**  
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d1731458813f477e8a3408bed9f8e0d6" target="_blank">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS SAA" title="AWS SAA" width="80px">
+</a>
+
 
 **Programming Languages**
 
